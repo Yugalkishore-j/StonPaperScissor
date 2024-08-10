@@ -1,7 +1,7 @@
-# StonPaperScissor
-
-It's a basics Game to Play .
-
+# adarshbalika
+It is an simple portfolio website which have details about myself and the projects i have made.
+----------------------------------------------------------------------------------------------
+Tech Stack
 HTML
 CSS
-JAVA SCRIPY
+JavaScript
