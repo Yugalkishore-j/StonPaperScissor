@@ -1,5 +1,6 @@
-# AdarshLadka
-It is an simple portfolio website which have details about myself and the projects i have made.
+# StonPaperScissor
+It is an simple Game to Play and Fun .
+
 ----------------------------------------------------------------------------------------------
 Tech Stack
 HTML
